@@ -14,6 +14,6 @@ Originally, this was assigned to be a SQL Server Management Studio project.
 
 I thought it would be easier to do it on MySQL, but it was a bit more fustrating.
 
-Jumping through loop holes was something that I had to do A TON, since MySQL and Visual Studio did NOT have compatibility.
+Jumping through loop holes was something that I had to do A TON, since MySQL and Visual Studio did NOT have compatibility unless I downloaded a MySQL plugin for Visual Studio.
 
 This was really fun and deeply humbling, but I think I wouldn't use MySQL for this type of case again.

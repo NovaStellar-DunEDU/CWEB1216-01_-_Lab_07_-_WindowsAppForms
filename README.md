@@ -1,7 +1,5 @@
-# CWEB1216-01 / Lab-07 / WindowsAppForms /
+# CWEB1216-01 / Lab-07 / WindowsAppForms / 4/23/2026
 [C]reate & [R]ead & [U]pdate & [D]elete Experimentation
-
-4/23/2026
 
 Language Used: C# & MySQL
 

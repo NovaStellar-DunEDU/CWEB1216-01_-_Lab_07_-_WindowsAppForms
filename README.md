@@ -10,8 +10,10 @@ Software Used: Visual Studio & MySQL Workbench
 <img width="1750" height="912" alt="image" src="https://github.com/user-attachments/assets/f49b0ff8-a986-40b9-89a4-9e2768c3ee83" />
 
 
-# POST MORTEM SHENANIGANS
+# PROJECT NOTES:
+
+I wrote the C# code myself, the schema was provided, and the UI was mostly class guided. This program is able to Create, Read, Update, and Delete books from the database, whilst retaining normalization.
 
 Originally, the relational database language that was supposed to be used was Microsoft's SQL Server, but I already had a pre-made MySQL Workbench Schema.
 
-Visual Studio does not have built-in MySQL support, so this project gave me a lot of grief. Would do it again.
+Visual Studio has no built-in MySQL support, so I learned to connect the app to MySQL through "MySQL Shell for VSCODE".

@@ -16,6 +16,6 @@ I wrote the C# code myself, the schema was provided, and the UI was mostly class
 
 This program is able to add, edit, view, and delete books. You can search by title, author, or genre, and filter by ID, stock, price, year, or page count.
 
-Originally, the relational database language that was supposed to be used was Microsoft's SQL Server, but I already had a pre-made MySQL Workbench Schema.
+Originally, the relational database system that was supposed to be used was Microsoft's SQL Server, but I already had a pre-made MySQL Workbench Schema.
 
-Visual Studio has no built-in MySQL support, so I learned to connect the app to MySQL through "MySQL Shell for VSCODE".
+Visual Studio has no built-in MySQL support, so I learned to connect the app to MySQL through MySQLConnector.

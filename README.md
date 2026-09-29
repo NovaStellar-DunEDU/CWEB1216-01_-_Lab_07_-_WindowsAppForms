@@ -5,7 +5,7 @@
 
 Language Used: C# / Database Used: MySQL
 
-Software Used: Visual Studio & MySQL Workbench
+Software Used: Visual Studio Code 2022 & MySQL Workbench
 
 <img width="1750" height="912" alt="image" src="https://github.com/user-attachments/assets/f49b0ff8-a986-40b9-89a4-9e2768c3ee83" />
 

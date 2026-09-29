@@ -3,7 +3,7 @@
 
 **Download the setup files to get access to the project**
 
-Language Used: C# & MySQL
+Language Used: C# / Database Used: MySQL
 
 Software Used: Visual Studio & MySQL Workbench
 
@@ -12,7 +12,9 @@ Software Used: Visual Studio & MySQL Workbench
 
 # PROJECT NOTES:
 
-I wrote the C# code myself, the schema was provided, and the UI was mostly class guided. This program is able to Create, Read, Update, and Delete books from the database, whilst retaining normalization.
+I wrote the C# code myself, the schema was provided, and the UI was mostly class guided. 
+
+This program is able to add, edit, view, and delete books. You can search by title, author, or genre, and filter by ID, stock, price, year, or page count.
 
 Originally, the relational database language that was supposed to be used was Microsoft's SQL Server, but I already had a pre-made MySQL Workbench Schema.
 

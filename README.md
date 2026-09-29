@@ -1,7 +1,7 @@
 # CWEB1216-01 / Lab-07 / WindowsAppForms / (4/23/2026)
 [C]reate & [R]ead & [U]pdate & [D]elete Experimentation
 
-**Download the setup files to get access to the project**
+**Download the setup files to get access to the project, OR, download the raw files in Visual Studio Code 2022 with MySQLConnector, .NET desktop development, ASP.NET and web development packages.**
 
 Language Used: C# / Database Used: MySQL
 

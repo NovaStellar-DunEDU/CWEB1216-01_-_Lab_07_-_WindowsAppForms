@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Lab07/Lab07.csproj" Id="584575c4-8306-4d44-a8e5-837daf870a2f" />
+  <Project Path="Setup/Setup.vdproj" Type="Installer">
+    <Build />
+  </Project>
+</Solution>

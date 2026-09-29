@@ -1,5 +1,6 @@
 # CWEB1216-01 / Lab-07 / WindowsAppForms / (4/23/2026)
 [C]reate & [R]ead & [U]pdate & [D]elete Experimentation
+Download the .EXE File to get access to the project
 
 Language Used: C# & MySQL
 
@@ -10,10 +11,6 @@ Software Used: Visual Studio & MySQL Workbench
 
 # POST MORTEM SHENANIGANS
 
-Originally, this was assigned to be a SQL Server Management Studio project.
+Originally, the relational database language that was supposed to be used was Microsoft's SQL Server, but I already had a pre-made MySQL Workbench Schema.
 
-I thought it would be easier to do it on MySQL, but it was a bit more fustrating.
-
-Jumping through loop holes was something that I had to do A TON, since MySQL and Visual Studio did NOT have compatibility unless I downloaded a MySQL plugin for Visual Studio.
-
-This was really fun and deeply humbling, but I think I wouldn't use MySQL for this type of case again.
+Visual Studio does not have built-in MySQL support, so this project gave me a lot of grief. Would do it again.
